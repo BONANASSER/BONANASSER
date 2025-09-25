@@ -57,8 +57,6 @@ I am passionate about collaborating with cross-functional teams to translate com
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge)](https://bona-nasser.mystringly.com)
 [![Linktree](https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge)](https://linktr.ee/bonanasser)
 [![Topmate](https://img.shields.io/badge/Topmate-Connect-7B68EE?style=for-the-badge)](https://topmate.io/bonanasser)
-https://www.instagram.com/bona.nasser195
-https://x.com/bonanasser
 </div>
 
 ## 🔄 Currently Working On
